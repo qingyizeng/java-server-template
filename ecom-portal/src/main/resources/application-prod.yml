@@ -49,8 +49,8 @@ spring:
     host: rabbit
     port: 5672
     virtual-host: /mall
-    username: mall
-    password: mall
+    username:
+    password:
 
   jmx:
     enabled: false
